@@ -1,0 +1,17 @@
+@import url("navbar.css");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+:root {
+  --primary-color: #f0423c;
+  --main-grey: #999999;
+}

@@ -1,0 +1,13 @@
+nav ul {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  color: var(--main-grey);
+}
