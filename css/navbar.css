@@ -3,11 +3,38 @@ nav ul {
   justify-content: flex-start;
   gap: 20px;
 }
-
 nav ul li {
   list-style: none;
 }
-
 nav ul li a {
   color: var(--main-grey);
+}
+
+.right {
+  display: flex;
+  justify-content: end;
+  position: relative;
+  bottom: 20px;
+  color: var(--main-grey);
+}
+
+.mainnav-container {
+  background-color: #424242;
+  height: 55px;
+}
+
+.navsecond,
+.navbeta {
+  list-style: none;
+}
+.navbeta,
+.hero-nav {
+  display: flex;
+}
+.navbeta {
+  gap: 30px;
+}
+
+.navbeta li {
+  text-transform: uppercase;
 }

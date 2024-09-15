@@ -1,0 +1,16 @@
+.hero-section {
+  padding: 0 50px 0 50px;
+  background-image: url("../images/banner-img.png");
+  height: 100vh;
+}
+
+.hero-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navsecond ul {
+  display: flex;
+  align-items: center;
+}

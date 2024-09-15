@@ -1,17 +1,70 @@
 @import url("navbar.css");
+@import url("hero-section.css");
 
 * {
   margin: 0;
   padding: 0;
 }
 
+:root {
+  --primary-color: #f0423c;
+  --main-grey: #999999;
+}
+
 .container {
-  max-width: 1200px;
+  max-width: 1250px;
   margin: 0 auto;
   padding: 15px;
 }
 
-:root {
-  --primary-color: #f0423c;
-  --main-grey: #999999;
+.navbeta li a {
+  text-decoration: none;
+  color: black;
+}
+.verticalcenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 100px;
+}
+.size {
+  width: 80px;
+  height: 60px;
+}
+.redline {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.boldfont {
+  text-align: center;
+  font-family: Exo, sans-serif;
+  margin-top: 100px;
+  font-weight: lighter;
+}
+
+.centerbutton {
+  margin-top: 80px;
+  text-align: center;
+}
+.centerbutton button {
+  background-color: red;
+  color: white;
+  border: #f0423c;
+  padding: 20px;
+}
+
+#review {
+  margin-top: 50px;
+  display: flex;
+  padding-left: 550px;
+}
+.review1 {
+  font-size: 1.5rem;
+}
+
+.reviewclass {
+  padding-left: 0.5rem;
 }
