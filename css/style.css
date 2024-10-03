@@ -68,3 +68,360 @@
 .reviewclass {
   padding-left: 0.5rem;
 }
+
+.reviewclass {
+  padding-left: 0.5rem;
+}
+
+.footer {
+  text-transform: uppercase;
+
+  text-align: center;
+  font-family: Exo, sans-serif;
+
+  margin: 40px 0 4px 0;
+}
+
+.redimg {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.inquiry {
+  text-align: center;
+  font-family: Exo, sans-serif;
+  margin-top: 30px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 40px;
+}
+#question {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+#contain {
+  max-width: 1290px;
+  margin: 0 auto;
+}
+.listing {
+  list-style: none;
+  margin: 10px 20px 0;
+  padding: 10px 80px 10px 80px;
+  border: 2px solid var(--main-grey);
+
+  width: 200px;
+  height: 125px;
+}
+.resources {
+  display: flex;
+
+  flex-flow: row nowrap;
+  width: 1300px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.imgresources {
+  width: 120px;
+  height: 70px;
+}
+
+.listing .imgresources {
+  display: block;
+  margin: 0 auto;
+}
+
+.topics {
+  text-align: center;
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: Exo, sans-serif;
+}
+
+.services {
+  padding: 18px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: red;
+  color: aliceblue;
+  font-size: 15px;
+  text-transform: uppercase;
+  margin-bottom: 80px;
+}
+
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: Exo, sans-serif;
+  margin-top: 40px;
+}
+
+.imgcenter {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#suggestion {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#inquire {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Exo, sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+#projectconcern {
+  font-size: 18px;
+}
+.icon-lists {
+  display: flex;
+  margin-bottom: 10px;
+}
+.graphics {
+  margin: 20px;
+}
+.coffee {
+  margin: 10px 20px 20px 10px;
+  font-size: 2rem;
+}
+.icon-head {
+  text-transform: uppercase;
+  font-family: Exo, sans-serif;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.icon-brief {
+  font-size: 18px;
+}
+.coffee,
+.tv,
+.sticky-note {
+  margin: 10px 20px 20px 10px;
+  font-size: 2rem;
+}
+.graphics {
+  display: flex;
+}
+.videoimg {
+  padding: 20px;
+}
+.exgraphics {
+  max-width: 1200px;
+}
+.moregraphics {
+  background-color: #f7f7f7;
+  margin-bottom: 40px;
+}
+.exgraphics {
+  margin: 0 auto;
+  padding: 10px;
+}
+.graphicshead {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+.graphicstop {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.arrows i {
+  color: aliceblue;
+  background-color: black;
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.graphicsphotos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#services2 {
+  margin-top: 30px;
+
+  display: flex;
+  justify-content: center;
+}
+
+.buttonpress {
+  background-color: red;
+  color: white;
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+.feedbackhead {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+.feedback {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.feedback1,
+.feedback2 {
+  max-width: 600px;
+}
+
+.individualsratings {
+  display: flex;
+  justify-content: space-between;
+}
+.JADrating,
+.EDrating {
+  background-color: #f7f7f7;
+  padding: 30px;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+.names {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+.rates {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.stars {
+  list-style-type: none;
+  font-size: 1rem;
+  margin: 4px;
+}
+.arrow {
+  text-align: center;
+}
+.arrow i {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.partnerscontainer {
+  background-color: #f7f7f7;
+  height: 200px;
+  margin: 40px 0 40px 0;
+}
+.partners {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
+.partner {
+  padding: 40px;
+}
+
+.offers {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.coupon1 {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+.offerspan {
+  color: var(--theme-color);
+}
+.signing {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  color: brown;
+}
+#email {
+  padding: 5px 300px 5px 10px;
+}
+#emailbutton {
+  padding: 10px 60px 10px 60px;
+  text-align: center;
+  background-color: var(--primary-color);
+  font-size: 1rem;
+  color: var(--main-grey);
+}
+.final-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.downarrow {
+  text-align: end;
+}
+.downarrow i {
+  padding: 8px;
+  background-color: var(--primary-color);
+  color: white;
+}
+.designcontest {
+  max-width: 300px;
+}
+.Lorem {
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin-bottom: 20px;
+}
+#imgdesign {
+  margin-bottom: 20px;
+}
+.finalul {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+}
+#finalli {
+  border: 2px solid #999999;
+}
+#finalli a {
+  color: #999999;
+}
+.finalul a {
+  display: block;
+  padding: 5px;
+}
+.lis {
+  list-style-type: none;
+  width: 200px;
+}
+.lis a {
+  text-decoration: none;
+  color: #999999;
+  display: block;
+  padding: 5px 0 5px 0;
+  border-bottom: 1px solid black;
+}
+.final-container {
+  display: flex;
+}
