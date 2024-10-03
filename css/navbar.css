@@ -38,3 +38,42 @@ nav ul li a {
 .navbeta li {
   text-transform: uppercase;
 }
+
+.navsection {
+  background-color: black;
+  height: 275px;
+  display: flex;
+  align-items: center;
+}
+.navelement {
+  max-width: 1300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.data {
+  list-style: none;
+  font-size: 30px;
+  color: white;
+  padding: 30px;
+}
+
+.headline {
+  text-transform: uppercase;
+  margin-top: 10px;
+  font-family: Exo, sans-serif;
+}
+
+.survey {
+  margin: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.red-linear {
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 20px;
+}
