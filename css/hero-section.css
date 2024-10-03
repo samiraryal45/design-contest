@@ -1,7 +1,7 @@
 .hero-section {
   padding: 0 50px 0 50px;
   background-image: url("../images/banner-img.png");
-  height: 100vh;
+  height: 700px;
 }
 
 .hero-nav {
@@ -13,4 +13,20 @@
 .navsecond ul {
   display: flex;
   align-items: center;
+}
+
+.navbeta {
+  gap: 30px;
+}
+
+.container1 {
+  padding-top: 15px;
+}
+
+h3 {
+  text-align: center;
+  font-family: Exo, sans-serif;
+  font-weight: normal;
+  margin-top: 50px;
+  text-transform: uppercase;
 }
